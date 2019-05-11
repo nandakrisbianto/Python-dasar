@@ -1,0 +1,3 @@
+ buah = ('Mangga', 'Apel','Nanas')
+ 
+ print(buah)
